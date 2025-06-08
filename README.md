@@ -59,7 +59,7 @@ A lightweight Redis-compatible server implementation in Go that supports core Re
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/go-redis.git
+git clone https://github.com/hardikphalet/candyKV.git
 cd go-redis
 go mod download
 ```
