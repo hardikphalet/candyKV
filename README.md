@@ -1,7 +1,7 @@
 # Go Redis Server Implementation
 
-[![Go Tests](https://github.com/hardikphalet/go-redis/actions/workflows/go.yml/badge.svg)](https://github.com/hardikphalet/go-redis/actions/workflows/go.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/hardikphalet/go-redis)](https://goreportcard.com/report/github.com/hardikphalet/go-redis)
+[![Go Tests](https://github.com/hardikphalet/candyKV/actions/workflows/go.yml/badge.svg)](https://github.com/hardikphalet/candyKV/actions/workflows/go.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/hardikphalet/candyKV)](https://goreportcard.com/report/github.com/hardikphalet/candyKV)
 
 A lightweight Redis-compatible server implementation in Go that supports core Redis functionality. This project implements the Redis RESP (REdis Serialization Protocol) protocol and provides a subset of Redis commands.
 
